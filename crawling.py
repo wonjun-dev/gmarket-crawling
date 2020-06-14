@@ -45,7 +45,7 @@ def main():
     goComment()
     stats = []
 
-    for i in range(1, 10):
+    for i in range(1, 105):
         
         time.sleep(5)
         setPage(i)
